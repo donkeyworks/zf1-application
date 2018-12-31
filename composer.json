@@ -1,5 +1,5 @@
 {
-    "name": "diablomedia/zendframework1-application",
+    "name": "donkeyworks/zendframework1-application",
     "description": "Zend Framework 1 Application component",
     "type": "library",
     "keywords": [
@@ -12,22 +12,22 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.0.0",
-        "diablomedia/zendframework1-exception": "^1.0.0",
-        "diablomedia/zendframework1-config": "^1.0.0",
-        "diablomedia/zendframework1-loader": "^1.0.0",
-        "diablomedia/zendframework1-registry": "^1.0.0",
-        "diablomedia/zendframework1-cache": "^1.0.0",
-        "diablomedia/zendframework1-controller": "^1.0.0",
-        "diablomedia/zendframework1-http": "^1.0.0",
-        "diablomedia/zendframework1-layout": "^1.0.0",
-        "diablomedia/zendframework1-locale": "^1.0.0",
-        "diablomedia/zendframework1-log": "^1.0.0",
-        "diablomedia/zendframework1-mail": "^1.0.0",
-        "diablomedia/zendframework1-navigation": "^1.0.0",
-        "diablomedia/zendframework1-session": "^1.0.0",
-        "diablomedia/zendframework1-translate": "^1.0.0",
-        "diablomedia/zendframework1-view": "^1.0.0",
-        "diablomedia/zendframework1-view-helper-navigation": "^1.0.0"
+        "donkeyworks/zendframework1-exception": "^1.0.0",
+        "donkeyworks/zendframework1-config": "^1.0.0",
+        "donkeyworks/zendframework1-loader": "^1.0.0",
+        "donkeyworks/zendframework1-registry": "^1.0.0",
+        "donkeyworks/zendframework1-cache": "^1.0.0",
+        "donkeyworks/zendframework1-controller": "^1.0.0",
+        "donkeyworks/zendframework1-http": "^1.0.0",
+        "donkeyworks/zendframework1-layout": "^1.0.0",
+        "donkeyworks/zendframework1-locale": "^1.0.0",
+        "donkeyworks/zendframework1-log": "^1.0.0",
+        "donkeyworks/zendframework1-mail": "^1.0.0",
+        "donkeyworks/zendframework1-navigation": "^1.0.0",
+        "donkeyworks/zendframework1-session": "^1.0.0",
+        "donkeyworks/zendframework1-translate": "^1.0.0",
+        "donkeyworks/zendframework1-view": "^1.0.0",
+        "donkeyworks/zendframework1-view-helper-navigation": "^1.0.0"
     },
     "autoload": {
         "psr-0": {
